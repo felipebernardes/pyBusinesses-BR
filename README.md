@@ -64,6 +64,12 @@ Globo.com            | [http://www.globo.com/](http://www.globo.com/)           
 Parafernalia Interativa             | [http://parafernalia.net.br/](http://paraferalia.net.br/)               | luiz.senna@parafernalia.net.br
 Finxi             | [http://finxi.com.br/](http://finxi.com.br/)               | victor.sousa@finxi.com.br
 
+### Sorocaba
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Tegra | [http://tegra.me](http://tegra.me) | +55 15 3359-1801                           | vagas@tegra.me
+
 ## Sul
 ### Florianópolis-SC
 
